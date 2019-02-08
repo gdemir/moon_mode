@@ -48,4 +48,4 @@
 
 ## License
 
-Back To Top is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Moon Mode is released under the [MIT License](http://www.opensource.org/licenses/MIT).
