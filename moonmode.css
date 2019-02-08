@@ -8,10 +8,10 @@
   width: 25px;
 }
 .moonmode-body {
-  background-color: #252525;
+  background-color: #252525 !important;
   color: #ffffff !important;
 }
 .moonmode-page {
-  background-color: #212121;
+  background-color: #212121 !important;
   color: #ffffff !important;
 }
