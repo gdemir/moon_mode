@@ -22,13 +22,13 @@
   <!-- moonmode start -->
   <!-- source : http://github.com/gdemir/moonmode -->
   <link rel="stylesheet" type="text/css" href="moonmode.min.css" />
-  <script>
+  <script type="text/javascript">
     $(document).ready(function() {
       $("#moonmode-logo").click(function() {
         $("body").toggleClass("moonmode-body");
         $("#page").toggleClass("moonmode-page");
       });
-    );
+    });
   </script>
   <!-- moonmode end -->
 </head>
