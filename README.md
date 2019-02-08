@@ -10,8 +10,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Gökhan Demir" />
-  <meta name="description" content="Back To Top" />
-  <meta name="keywords" content="back to top, back, to, top" />
+  <meta name="description" content="Moon Mode" />
+  <meta name="keywords" content="moon mode, moon, mode" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>MoonMode</title>
 
