@@ -35,7 +35,7 @@
 <body>
 
   <!-- moonmode logo start -->
-  <div id="moonmode-logo" style="top:0; left:0;"></div>
+  <div id="moonmode-logo" style="bottom:0; left:0;"></div>
   <!-- moonmode logo end -->
   
   <div id="page">
